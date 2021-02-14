@@ -17,7 +17,5 @@ body{
 canvas{
     border:7px solid white;
     border-radius: 10px;
-}
-.play_bttn{
-    font-size: 20px;
+    
 }
