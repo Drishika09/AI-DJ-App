@@ -1,7 +1,7 @@
 body{
     background: url(omggg.jpg);
-  background-repeat: no-repeat;
-  background-size:1300px,1500px;
+    background-repeat: no-repeat;
+    background-size:1300px,1500px;
 }
 .heading{
     background-color:white;
@@ -15,7 +15,7 @@ body{
     padding-bottom: 15px;
 }
 canvas{
-    border:7px solid white;
+    border: 7px solid white;
     border-radius: 10px;
-    
+    margin-top: 70px;
 }
